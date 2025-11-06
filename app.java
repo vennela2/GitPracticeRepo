@@ -20,3 +20,4 @@ public class Factorial {
     }
 }
 
+new code by dev1 wihtout pull the code developed by dev2
